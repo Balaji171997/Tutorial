@@ -231,9 +231,8 @@ button {
   border: 1px solid transparent;
 }
 
-button:hover{
+button:hover {
   background-color: darkgreen;
-
 }
 
 /*----------All box contents------*/
